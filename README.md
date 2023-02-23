@@ -19,11 +19,8 @@ My name is Giriharan and I'm pursuing B.E.Computer Science and Engineering in R.
 
 
 ### Connect with me:
-[![website](./img/youtube-light.svg)](https://youtube.com/chiefgiri#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/chiefgiri#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://youtube.com/chiefgiri)
+[![website](./img/youtube-dark.svg)](https://youtube.com/chiefgiri)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/giriharan-r-645533255#gh-dark-mode-only)
