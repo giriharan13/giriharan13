@@ -14,13 +14,10 @@ My name is Giriharan and I'm pursuing B.E.Computer Science and Engineering in R.
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="DR" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DaVinci_Resolve_17_logo.svg/640px-DaVinci_Resolve_17_logo.svg.png" style="padding-right:10px;" />]
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png
 <br />
 <br />
 
 
-### Connect with me:
 
 
 ### 📺 Latest YouTube Videos
