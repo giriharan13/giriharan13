@@ -1,27 +1,26 @@
-# Hey Guys! 
+### HEY GUYS!!
+
+# 💫 About Me:
 My name is Giriharan and I'm pursuing B.E.Computer Science and Engineering in R.M.K. Engineering College,Tamil Nadu,India.
-
-##  I am a Novice Graphic Desinger and a Programmer 
-
-###  Languages/Tools with which I have worked on
+I'm a novice Programmer and a Editor
 
 
-<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" style="padding-right:10px;" />
-<img align="left" alt="Pyth" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" style="padding-right:10px;" />
-<img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" style="padding-right:10px;" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="PYCH" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="DR" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DaVinci_Resolve_17_logo.svg/640px-DaVinci_Resolve_17_logo.svg.png" style="padding-right:10px;" />
-<br />
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/giriharan-r-645533255) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@youtube.com/chiefgiri) 
 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=flat-square&logo=gimp&logoColor=FFFFFF)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=giriharan13&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=giriharan13&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=giriharan13&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=giriharan13&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
+---
+[![](https://visitcount.itsvg.in/api?id=giriharan13&icon=5&color=1)](https://visitcount.itsvg.in)
 
-
-### 📺 Latest YouTube Videos
-- [Hello-Capsule | Mograph #1](https://www.youtube.com/watch?v=Lux3ylgR9Os&ab_channel=Ch13f)
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
