@@ -21,6 +21,6 @@ I'm a novice Programmer and a Editor
 ---
 [![](https://visitcount.itsvg.in/api?id=giriharan13&icon=5&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+https://github-readme-stats.vercel.app/api?username=[giriharan13]
 
 
