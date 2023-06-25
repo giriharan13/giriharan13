@@ -1,4 +1,4 @@
-### HEY GUYS!!
+### Howdy 🤠👋
 
 # 💫 About Me:
 My name is Giriharan and I'm pursuing B.E.Computer Science and Engineering in R.M.K. Engineering College,Tamil Nadu,India.
